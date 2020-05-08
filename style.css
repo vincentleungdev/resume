@@ -26,6 +26,9 @@ p {
 	color: #444;
 }
 
+.itemList {
+	padding-bottom:0.25em;
+}
 
 #cv {
 	width: 90%;
