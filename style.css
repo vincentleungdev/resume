@@ -28,6 +28,7 @@ p {
 
 .itemList {
 	padding-bottom:0.25em;
+	margin: 0.2em 0;
 }
 
 #cv {
@@ -99,6 +100,8 @@ p {
 
 #contactDetails ul li a:hover { 
 	color: #cf8a05;
+	margin: 0 0 3px 0;
+
 }
 
 
